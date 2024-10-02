@@ -363,3 +363,8 @@ xlsxwriter==3.2.0 ; python_version >= "3.11" and python_version < "3.12"
 xxhash==3.5.0 ; python_version >= "3.11" and python_version < "3.12"
 yarl==1.9.6 ; python_version >= "3.11" and python_version < "3.12"
 zipp==3.20.1 ; python_version >= "3.11" and python_version < "3.12"
+
+langchain~=0.2.15
+streamlit~=1.38.0
+python-dotenv~=1.0.1
+requests~=2.32.3
